@@ -53,14 +53,14 @@ const Principal = () => {
           <div className="committee-card">
             <img src={Principal2} alt="principal" />
             <div className="profile-info">
-              <h3>Mr. Kantaruju B G</h3>
+              <h3>Mr. Kantaraju B G</h3>
               <span>
                 Edu - MSc, M.Ed, KES | Teaching experience - 17 years | Joining
                 date - 15/06/2007
               </span>
 
               <p>
-                Mr. Kantaruju B G, the Principal of the High School, holds an MSc,
+                Mr. Kantaraju B G, the Principal of the High School, holds an MSc,
                 MEd, and KES with 17 years of teaching experience. Since joining
                 on 15/06/2007, he has been a dedicated educator, shaping the
                 academic journey of students under his guidance
