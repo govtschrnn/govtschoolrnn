@@ -190,7 +190,7 @@ const Home = () => {
 
         <div className="counter">
           <h1>
-            <CountUp end={50} enableScrollSpy scrollSpyOnce />
+            <CountUp end={40} enableScrollSpy scrollSpyOnce />
             <span className="plus">+</span>
             <p>Faculty</p>
           </h1>
